@@ -15,9 +15,9 @@ return [
     */
 
     'google' => [
-    'client_id' => env('69422722901-6dhp0v7ie7msjgtfeob5rpao44vcj9kh.apps.googleusercontent.com'),
-    'client_secret' => env('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'),
-    'redirect' => env('GOOGLE_REDIRECT_URI'),
+        'client_id' => env('69422722901-6dhp0v7ie7msjgtfeob5rpao44vcj9kh.apps.googleusercontent.com'),
+        'client_secret' => env('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'),
+        'redirect' => env('GOOGLE_REDIRECT_URI'),
     ],
 
     'postmark' => [
